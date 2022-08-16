@@ -55,6 +55,7 @@ Admob
 
 9. 개인정보 보호책임자 작성
 이메일 : ljw3944@naver.com
+이메일 작성시 [LspacePang] - 제목으로 작성 부탁드립니다.
 
 
 -privacy policy-
@@ -113,3 +114,4 @@ Provided items: Advertising identifiers that cannot be personally identified
 
 9. Created by the person in charge of personal information protection
 Email: ljw3944@naver.com
+When writing an e-mail, please write [LspacePang] - as the subject.
